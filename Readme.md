@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Марина Томсен](https://up.htmlacademy.ru/htmlcss/31/user/1762217).
-* Наставник: `Неизвестно`.
+* Наставник: [Алёна Сиприкова](https://htmlacademy.ru/profile/asiprikova).
 
 ---
 
